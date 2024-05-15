@@ -21,6 +21,8 @@ Recognized Revenue:	means the "revenue recognition" that is governed in the Comp
 - pay-as-you-go revenue: this pertains to income from services that are not prepaid with credits; the revenue is recognized when the services are provided; for instance, if a customer with no prepaid credits consumes services worth EUR 500 in a month, the Company recognizes the full EUR 500 as revenue at month-end;							
 Credits, set by default at €0 in the Company’s database and offered for commercial use, do not affect the Recognised Revenue. However, credit notes used for reimbursing invoices can impact the recognized revenue retroactively. For instance, if a customer consumes paid credits in May, which were invoiced and paid for in April, and for any reason those paid credits must be reimbursed in June, the Recognised Revenue of May will be retroactively decreased by the amount of the credit note.
 
+Other info:
+We define our Ideal Customer Profile (ICP) as a customer having at least 25 employees and having its headquarters in following the countries: United Kingdom, Belgium, Germany and France. All other customers would be referenced as 'Non-ICP'.
 
 You want to make sure to give important insights to the management team by helping them *understand the company's growth and the leverages that Sortlist has at an international level*.
 
@@ -53,18 +55,15 @@ b. Which country is generating the most revenue?
 c. Calculate the Recognized Revenue for each customer based on the revenue recognition principles provided. 
 d. Segment the revenue based on the three streams: Subscription, Credit Pack, and Pay-as-you-go.
 
-2. Cohort Analysis: 
-a. Segment customers based on their ICP and analyze the CLV of each cohort over time. 
-b. Correlate the size of the customer's employee team with the consumption of units in the platform. Visualize the findings.
-
-3. Visualization: Create interactive dashboards in Tableau that: 
-a. Show monthly recognized revenue segmented by the three streams. 
-b. Visualize the CLV for each ICP cohort. 
+2. Visualization: Create interactive dashboards in Tableau that: 
+a. Show monthly recognized revenue segmented by the three streams. Is there any difference between ICP and Non-ICP customers?
 c. Illustrate the correlation between employee team size and consumption of units.
+
+3. Cohort Analysis:
+The management seeks to understand if our customer base is improving over time. For that, they would like to compare customers starting at different periods and analyze their behavior. What do you propose?
 
 4. Insights and Observations: 
 Document your findings, specifically any patterns or interesting observations about the correlation between employee size and unit consumption.
-
 
 ## Extra Bonus
 
