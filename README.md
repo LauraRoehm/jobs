@@ -83,7 +83,7 @@ The spreadsheet is composed of 3 tabs:
 * Services consumed : all the consumption of the accounts since 01/01/2022 
 * Customer id : all the customers 
 
-Once you have cover the questions, please send them by email to thibaut@sortlist.com and loic.foguenne@sortlist.com with the link to your published workbook or the extract of your workbook. 
+Once you have cover the questions, please send them by email to loic.foguenne@sortlist.com with the link to your published workbook or the extract of your workbook. 
 
 ps: please embed your passwords on Tableau to ease access to your project & workbooks. 
 
